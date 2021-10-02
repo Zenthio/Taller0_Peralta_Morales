@@ -7,6 +7,8 @@ import java.util.Scanner;
 public class Taller0_Peralta_Morales {
     
     /** 
+     * @version 1.0, 01/10/21
+     * @author Nicolás Peralta | Matias Morales 
      * @param args
      * @throws IOException
      */
