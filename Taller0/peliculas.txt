@@ -1,0 +1,6 @@
+Rápidos y Furiosos,estreno,15000,2,M,2,T,1,T
+El conjuro 3,liberada,20000,1,M
+Spiderman,liberada,60000,3,T
+Kill Bill,estreno,800000,4,M
+There will be blood,liberado,337000,2,M,2,T,1,T
+The Raid,estreno,240000,1,T
